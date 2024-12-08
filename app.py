@@ -1,5 +1,5 @@
 import os
-
+print(
 def display_menu():
     print("\n=== Simple Note App ===")
     print("1. Xem ghi chú")
